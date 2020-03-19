@@ -1,4 +1,4 @@
-package com.ray;
+package com.ray.util;
 
 import com.alibaba.fastjson.JSONObject;
 import org.apache.http.HttpEntity;
